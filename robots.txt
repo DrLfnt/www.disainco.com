@@ -1,0 +1,12 @@
+User-Agent: *
+
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /font/
+Disallow: /font_champagne/
+Disallow: /functions/
+Disallow: /js/
+Disallow: /style.css
+Disallow: /style.min.css
+
+Sitemap: http://disain.co/sitemap.xml

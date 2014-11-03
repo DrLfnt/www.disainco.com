@@ -1,0 +1,153 @@
+/* Arcoiris Background */
+@-webkit-keyframes arcoiris {
+	0% { color: white; background: white; }
+	7% { color: white; background: #001f3f; }
+	14% { color: white; background: #0074d9; }
+	21% { color: white; background: #7fdbff; }
+	28% { color: white; background: #39cccc; }
+	35% { color: white; background: #3d9970; }
+	42% { color: white; background: #2ecc40; }
+	49% { color: white; background: #01ff70; }
+	56% { color: white; background: #ffdc00; }
+	63% { color: white; background: #ff851b; }
+	70% { color: white; background: #ff4136; }
+	77% { color: white; background: #85144b; }
+	84% { color: white; background: #f012be; }
+	91% { color: white; background: #b10dc9; }
+	95% { color: white; background: #111111; }
+	96% { color: white; background: #dddddd; }
+	98% { color: white; background: #aaaaaa; }
+	100% { color: white; background: white; }
+}
+
+.bg-arcoiris {
+	-webkit-animation: arcoiris 100s linear infinite;
+	-moz-animation: arcoiris 100s linear infinite;
+	animation: arcoiris 100s linear infinite;
+}
+
+/* prensa Background */
+@-webkit-keyframes prensa {
+	0% {color: #00FFFF;}
+	15% {color: fuchsia;}
+	30% {color: yellow;}
+	45% {color: black;}
+	60% {color: yellow;}
+	75% {color: fuchsia;}
+	100% {color: #00FFFF;}
+}
+
+.t-prensa {
+	-webkit-animation: prensa 25s linear infinite;
+	-moz-animation: prensa 25s linear infinite;
+	animation: prensa 25s linear infinite;
+}
+
+/* General Background Color */
+.bg {background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+}
+
+/* Background */
+.bg-limegreen {background-color: #32CD32;}
+.bg-forestgreen {background-color: #228B22;}
+.bg-turquoise {background-color: #40E0D0;}
+.bg-dodgerblue {background-color: #1E90FF;}
+.bg-darkblue {background-color: #00008B;}
+.bg-royalblue {background-color: #4169E1;}
+.bg-pastelyellow {background-color: #FDFD96;}
+.bg-cornsilk {background-color: #FFF8DC;}
+.bg-salmon {background-color: #FA8072;}
+.bg-khaki {background-color: #F0E68C;}
+.bg-darkcyan {background-color: #008B8B;}
+.bg-lightcyan {background-color: #E0FFFF;}
+.bg-cyan {background-color: #00FFFF;}
+.bg-aqua {background-color: #7FDBFF;}
+.bg-black {background-color: #111111;}
+.bg-blue {background-color: #0074D9;}
+.bg-fuchsia {background-color: #F012BE;}
+.bg-green {background-color: #2ECC40;}
+.bg-lime {background-color: #01FF70;}
+.bg-maroon {background-color: #85144B;}
+.bg-navy {background-color: #001F3F;}
+.bg-olive {background-color: #3D9970;}
+.bg-orange {background-color: #FF851B;}
+.bg-purple {background-color: #B10DC9;}
+.bg-red {background-color: #FF4136;}
+.bg-silver {background-color: #ddd;}
+.bg-gray {background-color: #aaa;}
+.bg-teal {background-color: #39CCCC;}
+.bg-white {background-color: white;}
+.bg-yellow {background-color: #FFDC00;}
+.bg-transparet {background-color: transparent !important;}
+
+/* Color *//* Text */
+.limegreen {color: #32CD32;}
+.forestgreen {color: #228B22;}
+.turquoise {color: #40E0D0;}
+.dodgerblue {color: #1E90FF;}
+.darkblue {color: #00008B;}
+.royalblue {color: #4169E1;}
+.pastelyellow {color: #FDFD96;}
+.cornsilk {color: #FFF8DC;}
+.salmon {color: #FA8072;}
+.khaki {color: #F0E68C;}
+.darkcyan {color: #008B8B;}
+.lightcyan {color: #E0FFFF;}
+.cyan {color: #00FFFF;}
+.aqua {color: #7FDBFF;}
+.blue {color: #0074D9;}
+.navy {color: #001F3F;}
+.teal {color: #39CCCC;}
+.green {color: #2ECC40;}
+.olive {color: #3D9970;}
+.lime {color: #01FF70;}
+.maroon {color: #85144B;}
+.orange {color: #FF851B;}
+.purple {color: #B10DC9;}
+.red {color: #FF4136;}
+.yellow {color: #FFDC00;}
+.fuchsia {color: #F012BE;}
+.silver {color: #ddd;}
+.gray {color: #aaa;}
+.white {color: white;}
+.black {color: #111111;}
+
+/* The 17 Default Colors of CSS */
+.db-aqua {background-color: aqua;}
+.db-black {background-color: black;}
+.db-blue {background-color: blue;}
+.db-fuchsia {background-color: fuchsia;}
+.db-gray {background-color: gray;}
+.db-green {background-color: green;}
+.db-lime {background-color: lime;}
+.db-maroon {background-color: maroon;}
+.db-navy {background-color: navy;}
+.db-olive {background-color: olive;}
+.db-orange {background-color: orange;}
+.db-purple {background-color: purple;}
+.db-red {background-color: red;}
+.db-silver {background-color: silver;}
+.db-teal {background-color: teal;}
+.db-white {background-color: white;}
+.db-yellow {background-color: yellow; }
+
+.dc-aqua {color: aqua;}
+.dc-black {color: black;}
+.dc-blue {color: blue;}
+.dc-fuchsia {color: fuchsia;}
+.dc-gray {color: gray;}
+.dc-green {color: green;}
+.dc-lime {color: lime;}
+.dc-maroon {color: maroon;}
+.dc-navy {color: navy;}
+.dc-olive {color: olive;}
+.dc-orange {color: orange;}
+.dc-purple {color: purple;}
+.dc-red {color: red;}
+.dc-silver {color: silver;}
+.dc-teal {color: teal;}
+.dc-white {color: white;}
+.dc-yellow {color: yellow; }

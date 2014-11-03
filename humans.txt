@@ -1,0 +1,51 @@
+
+                                 xxxxxxxx
+                                 x      x
+                                 x      x
+                                 x      x
+                                 x      x
+                      xxxxxxxxx  x      xxxxxxxxxxx
+                   xxxx       x  x   xxxx         xxxx
+                 xxx          x  x  xx               xxx
+                xx            x  x xx                  xx
+               xx        xxxxxx  xxx      xxxxxxxx      xx
+              xx       xxxx      xx      xx      xxx     xx
+             xx        xx        xx     xx         x     xx
+             xx        xxx       xx     xx         xxxxxxxx
+             xx         xxxxx    x      xx
+              xx           xxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+               xx                x                                  x
+                xxx              x                                  x
+                  xxx            x                         DisainCo x
+                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+/* disain.co | Diseño grafico, diseño web, diseño publicitario, animacion, social media, mercadotecnia - http://disain.co */
+
+/* TEAM */
+	CEO, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: a.palacios [at] disain.co - Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+	MD, Front End & Designer: Julio Cesar Tinoco Marin
+	Contact: c.marin [at] disain.co - cesare.caesar.marin [at] gmail.com
+	Twitter: @CesareCaesar1
+	From: Mexico city, Mexico
+
+/* THANKS */
+	DisainCo http://disain.co
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+	Mejorandola http://mejorando.la
+
+	Desarrollo Web http://desarrolloweb.com
+
+/* SITE */
+	Last update: 06/02/2014
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript, PHP
+	Components: Responsive Design, jQuery, Node.js, Stylus - nib, MySQL
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC)
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css

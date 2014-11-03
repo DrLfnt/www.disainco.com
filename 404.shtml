@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="es"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="es"><![endif]-->
+<!--[if (IE 9)]><html class="no-js ie9" lang="es"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="es-MX"> <!--<![endif]-->
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta charset="UTF-8">
+<meta name="google-site-verification" content="-oTDUtoJBNhEg1-4r3THwbeZyVfZbqfRDsjMwUIn3Zw" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="cleartype" content="on">
+
+<title>DisainCo | Cristalizamos ideas | Agencia digital</title>   
+
+<meta content="Estudio de Diseño Integral" name="description">
+<meta content="Diseño, Diseno, SEO, Social Media, Diseño Web, Diseño Publicitario, Publicidad, Marketing, Diseño Gráfico" name="keywords">
+<meta content="Argenis Oldair Palacios A.K.A. Dr. Lfnt | Julio César Tinoco Marín" name="author">
+
+<!-- Especificaciones cel -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="HandheldFriendly" content="true"/>
+<meta name="MobileOptimized" content="320"/>   
+
+<!-- Mobile Internet Explorer ClearType Technology -->
+<!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
+
+<!-- TXT -->
+<link rel="author" type="text/plain" href="http://www.disain.co/humans.txt">
+
+<!-- Favicon -->
+<link rel="shortcut icon" type="image/x-icon" href="http://www.disain.co/img/favicon.ico" media="all">
+
+<!-- Menu -->
+<link rel="stylesheet" type="text/css" href="../css/nav.css" />
+
+<!-- Bootstrap -->
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+
+<!-- CSS General -->
+<link href="../css/main.css" rel="stylesheet">
+
+<!-- Supersized -->
+<link href="../css/supersized.css" rel="stylesheet">
+
+<!-- Font Icons -->
+<link rel="stylesheet" type="text/css" href="../css/font-awesome.css" />
+
+<!-- Shortcodes -->
+<link href="../css/shortcodes.css" rel="stylesheet">
+
+<!-- Pop Up -->
+<link type="text/css" rel="stylesheet" href="../css/featherlight.min.css" />
+
+<!-- Responsive -->
+<link href="../css/bootstrap-responsive.min.css" rel="stylesheet">
+<link href="../css/responsive.css" rel="stylesheet">
+
+<!-- Fav Icon -->
+<link rel="shortcut icon" href="#">
+
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="144x144" href="#">
+
+<!-- Modernizr -->
+<script src="../js/modernizr.js"></script>
+
+<!-- Script Analytics -->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-45516833-1', 'disain.co');
+	ga('send', 'pageview');
+
+	</script>
+	<!-- Script Analytics -->
+
+	<!--[if gte IE 9]>
+	<style type="text/css">
+		.gradient {
+		filter: none;
+		}
+	</style>
+	<![endif]-->
+
+	<!-- Meta Google -->
+	<meta name="google-site-verification" content="iYwK6V3z-mbLHcI5-r13FypuEjaGM8yx6C7bEGg_gj8" />
+	<!-- Meta Google -->
+
+</head>
+
+
+<body>
+
+																	
+<!-- Header -->	
+	
+	<!-- Menu -->
+    <div class="menu">
+		<ul id="gn-menu" class="gn-menu-main">
+			<li class="gn-trigger">
+				<a class="gn-icon gn-icon-menu">
+					<span>
+						Menu
+					</span>
+				</a>
+				<nav class="gn-menu-wrapper">
+					<!-- scroller -->
+					<div class="gn-scroller">
+						<ul class="gn-menu">
+							<li>
+								<a href="" class="gn-icon gn-icon-download">
+									Soluciones
+								</a>
+								<ul class="gn-submenu">
+									<li>
+										<a href="http://disain.co/diseno" class="fa fa-picture-o fa-lg">
+											Diseño
+										</a>
+									</li>
+									<li>
+										<a href="http://disain.co/marketing" class="fa fa-star fa-lg">
+											Marketing
+										</a>
+									</li>
+									<li>
+										<a href="http://disain.co/desarrollo" class="fa fa-gears fa-lg">
+											Desarrollo
+										</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="" class="gn-icon gn-icon-help">
+									Información
+								</a>
+								<ul class="gn-submenu">
+									<li>
+										<a href="http://disain.co/nosotros" class="fa fa-users fa-lg">
+											Nosotros
+										</a>
+									</li>
+									<li>
+										<a href="http://disain.co/faqs" class="fa fa-question fa-lg">
+											FAQ'S
+										</a>
+									</li>
+								</ul>                                
+							</li>
+							<li>
+								<a href="http://disain.co/galeria" class="gn-icon gn-icon-pictures">
+									Galería
+								</a>
+							</li>
+							<li>
+								<a href="http://disain.co/contacto" class="gn-icon gn-icon-article">
+									Contacto
+								</a>
+								<!--<ul class="gn-submenu">
+									<li>
+										<a href="mailto:contacto@disain.co" class="fa fa-envelope-o fa-lg">
+											Mail
+										</a>
+									</li>
+									<li>
+										<a href="#" class="fa fa-map-marker fa-lg">
+											Visitanos
+										</a>
+									</li>
+								</ul>-->
+							</li>
+						</ul>
+					</div>
+					<!-- /scroller -->
+				</nav>
+			</li>
+			<li>
+				<a href="http://disain.co">
+					DisainCo
+				</a>
+			</li>
+			<li>
+				<a href="http://disain.co/disainco-blog" class="">
+					<span>
+						<i class="right fa fa-comments fa-lg"></i>
+					</span>
+				</a>
+			</li>
+		</ul>
+    </div>
+	<!-- Fin Menu -->
+
+                <!-- Head -->
+                    <div class="diseno">
+                        <h1 class="title-img">DisainCo</h1>
+                        <h2 class="caption">Cristalizamos ideas</h2>
+                    </div>
+                <!-- Fin Head -->
+        
+<!-- Header -->
+
+<!-- Soluciones de Diseño -->
+<div id="about" class="page-alternate">
+<div class="container">
+    <!-- Título de Página -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Error 404</h2>
+                <h3 class="title-description">Toda nuestra información<a href="http://disain.co" data-toggle="tooltip" title="Regresar"> AQUI</a>.</h3>
+            </div>
+        </div>
+    </div>
+    <!-- Fin Título de Página -->
+    
+    <!-- Primer Fila -->
+    <div class="row">
+    	
+        <!-- Solución -->
+    	<div class="span12 profile">
+            <h3 class="profile-name" style="display:inline-block; font-size: 4em; text-align: center;">DisainCo</h3>
+            	<center><p class="profile-description" style="font-size: 2em" ><a href="#" data-toggle="tooltip" title="Conocemos la ruta al Éxito">Lideres creativos</a> llevando empresas al éxito profesional.</p></center>
+            <center><a class="button" href="#" data-featherlight="#f1" data-featherlight-variant="fixwidth"><b>Accesos directos.</b>&nbsp; 
+            <i class="fa fa-arrow-circle-right" fa2x></i></a></center>
+       </div>
+        <!-- Fin Solución -->
+    </div>
+    <!-- Fin Segunda Fila -->
+</div>
+</div>
+<!-- Fin Soluciones de Diseño -->
+
+<!-- Sección Botón Call to Action -->
+<div class="page bg-call-to-action-solution">
+<div class="container">
+	<div class="row">
+    
+		<div class="span4">
+     	</div>
+        
+		<!-- Botón -->
+        <div class="span4">
+        	<div class="button2">
+				No le tema al éxito.<a href="http://disain.co/contacto"> Contáctenos</a>
+			</div>       		
+		</div>
+     	<!-- Fin Botón --> 
+            
+      	<div class="span4">
+		</div>
+                               
+	</div>		                
+</div>
+</div>
+<!-- Fin Sección Botón Call to Action -->
+
+	<!-- Sección Pop Ups -->
+		<div class="lightbox" id="f1">
+			<h2 style=text-align:center;>Nuestros<br />Servicios</h2>
+			<ul class="call-action-solutions">
+            	<li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Diseño</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Marketing</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Desarrollo</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Galería</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Nosotros</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Dudas</li>
+                <li><i class="fa fa-arrow-circle-right icon" style="margin-top:5px;margin-right:12px;"></i>Contacto</li>
+			</ul>
+		</div>		
+	<!-- Fin Sección Pop Ups -->
+
+<!-- Footer -->
+<footer>
+	<p class="credits">Copyright 2014 DisainCo. <b><a href="#" title="DisainCo | Cristalizamos ideas | Marketing digital">Aviso de 
+    Privacidad</a></b></p>
+    <ul>
+		<li><i class="fa fa-html5 fa-2x tec vsfade"></i></li>
+		<li><i class="fa fa-css3 fa-2x tec vsfade"></i></li>
+		<li><a href="http://www.disain.co/humans.txt" target="_blank">
+        <img src="http://humanstxt.org/img/oficial-logos/humanstxt-transparent-1ink.png" class="vsfade tec" alt="humans.txt">
+        </a></li>
+		<li><a href="http://www.iammobile.co.uk/results/www.disain.co">
+        <img src="http://www.iammobile.co.uk/images/iammobile-small.png" class="vsfade tec" width="45px" alt="I am Mobile">
+        </a></li>
+	</ul>
+</footer>
+<!-- End Footer -->
+
+<!-- Js -->
+<script src="../js/classie.js"></script><!-- Menu -->
+<script src="../js/gnmenu.js"></script><!-- Menu -->
+<script>new gnMenu( document.getElementById( 'gn-menu' ) );</script><!-- Menu -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> <!-- jQuery Core -->
+<script src="../js/bootstrap.min.js"></script> <!-- Bootstrap -->
+<script src="../js/supersized.3.2.7.min.js"></script> <!-- Slider -->
+<script src="../js/waypoints.js"></script> <!-- WayPoints -->
+<script src="../js/waypoints-sticky.js"></script> <!-- Waypoints for Header -->
+<script src="../js/jquery.tweet.js"></script> <!-- Tweet -->
+<script src="../js/plugins.js"></script> <!-- Contains: jPreloader, jQuery Easing, jQuery ScrollTo, jQuery One Page Navi -->
+<script src="../js/main.js"></script> <!-- Default JS -->
+<script src="../js/featherlight.min.js"></script> <!-- Pop Up -->
+<!-- Fin Js -->
+
+</body>
+</html>

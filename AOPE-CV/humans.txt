@@ -1,0 +1,23 @@
+/* Argenis Oldair Palacios Escobar | UX Designer, Front End, Estratega Digital, Grow Hacker - http://about.me/dr.lfnt */
+
+
+/* My Contact */
+	UX, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: a.palacios [at] disain.co - Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+
+/* THANKS */
+	DisainCo http://disain.co
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+
+/* SITE */
+	Last update: 28/02/2014
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript, PHP
+	Components: Responsive Design, jQuery, Node.js, Stylus - nib, MySQL
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC)
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css

@@ -1,0 +1,22 @@
+/* Argenis Oldair Palacios A.K.A. Dr. Lfnt | Descripción - http://argenisoldairpalacios.disain.co/ */
+
+
+/* Creator */
+	UX, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: a.palacios [at] disain.co | Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+	Studio: DisainCo
+	Contact: contacto [at] disain.co
+	Url: http://disain.co/
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+/* SITE */
+	Last update: 09/06/2014
+	Language: Español.
+	Standars: HTML5, CSS3, JavaScript.
+	Components: Responsive Design, jQuery, MySQL.
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC).
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css

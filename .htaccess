@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^disain\.co$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.disain\.co$
+RewriteRule ^ArgenisOldairPalacios\/$ "http\:\/\/argenisoldairpalacios\.disain\.co\/" [R=301,L]
+

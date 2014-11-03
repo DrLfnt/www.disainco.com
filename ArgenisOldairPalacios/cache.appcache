@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# 2014-06-09 v1.0.0
+CACHE:
+css/allinone.css
+css/colores.css
+css/font-awesome.min.css
+css/lightbox.css
+css/main.css
+css/stylesheet.css
+css/zero.css
+js/masonry.js
+js/lightbox.js
+js/main.js
+images/CMYK-RGB.gif
+images/loading.gif
+fonts/fontawesome-webfont.eot
+fonts/fontawesome-webfont.svg
+fonts/fontawesome-webfont.ttf
+fonts/fontawesome-webfont.woff
+fonts/FontAwesome.otf
+
+NETWORK:
+login.asp
+
+FALLBACK:
+offline.html
