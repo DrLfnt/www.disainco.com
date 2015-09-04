@@ -17,7 +17,7 @@
 
 <meta content="Estudio de Diseño Integral" name="description">
 <meta content="Diseño, Diseno, SEO, Social Media, Diseño Web, Diseño Publicitario, Publicidad, Marketing, Diseño Gráfico" name="keywords">
-<meta content="Argenis Oldair Palacios A.K.A. Dr. Lfnt | Julio César Tinoco Marín" name="author">
+<meta content="Argenis Oldair Palacios A.K.A. Dr. Lfnt " name="author">
 
 <!-- Especificaciones cel -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />

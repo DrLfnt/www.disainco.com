@@ -23,27 +23,15 @@
 /* disainco.com | Diseño grafico, diseño web, diseño publicitario, animacion, social media, mercadotecnia - http://disainco.com */
 
 /* TEAM */
-	CEO, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
-	Contact: a.palacios [at] disainco.com - Dr.Lfnt [at] gmail.com
+	CEO Co-Founder, FrontEnd Developer - Digital Strategist - UX & UI Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: argenis [at] disainco.com - Dr.Lfnt [at] gmail.com
 	Twitter: @DrLfnt
 	From: Mexico city, Mexico
 
-	MD, Front End & Designer: Julio Cesar Tinoco Marin
-	Contact: c.marin [at] disainco.com - cesare.caesar.marin [at] gmail.com
-	Twitter: @CesareCaesar1
-	From: Mexico city, Mexico
-
-/* THANKS */
-	DisainCo http://disainco.com
-	Twitter: @DisainCo
-	From: Mexico city, Mexico
-
-	Mejorandola http://mejorando.la
-
-	Desarrollo Web http://desarrolloweb.com
+	Siempre hay espacio para uno más ;) mandanos tu CV online a argenis [at] disainco.com
 
 /* SITE */
-	Last update: 06/02/2014
+	Last update: 05/09/2015
 	Language: Español
 	Standars: HTML5, CSS3, JavaScript, PHP
 	Components: Responsive Design, jQuery, Node.js, Stylus - nib, MySQL

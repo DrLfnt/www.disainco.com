@@ -4,52 +4,51 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
 <url>
   <loc>http://disainco.com/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://disainco.com/diseno/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/marketing/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/desarrollo/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/nosotros/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/faqs/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/galeria/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://disainco.com/contacto/</loc>
-  <lastmod>2014-02-11T19:13:15+00:00</lastmod>
+  <lastmod>2015-09-05T19:13:15+00:00</lastmod>
   <changefreq>always</changefreq>
   <priority>0.80</priority>
 </url>
