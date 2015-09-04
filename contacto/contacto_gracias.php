@@ -28,13 +28,13 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 
 <!-- Si Ud desea puede Eliminar el meta, PERO la funcion de éste es redireccionar a otra ruta despues de un tiempo de 8 sg ó los que desee -->
-<meta http-equiv="refresh" content="10;URL=http://disain.co/">
+<meta http-equiv="refresh" content="10;URL=http://disainco.com/">
 
 <!-- TXT -->
-<link rel="author" type="text/plain" href="http://www.disain.co/humans.txt">
+<link rel="author" type="text/plain" href="http://www.disainco.com/humans.txt">
 
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="http://www.disain.co/img/favicon.ico" media="all">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.disainco.com/img/favicon.ico" media="all">
 
 <!-- Menu -->
 <link rel="stylesheet" type="text/css" href="../css/nav.css" />
@@ -86,7 +86,7 @@
                 <h3 class="title-description">Nos comunicaremos con usted lo mas pronto posible.</h3>
                 <h3 class="title-description">Lo invitamos a seguir visitando nuestra Pagina Web.</h3>
                 <h3 class="title-description">Conozca las 
-                <a href="http://disain.co/diseno/" data-toggle="tooltip" title="Sección de Soluciones">Soluciones</a> y 
+                <a href="http://disainco.com/diseno/" data-toggle="tooltip" title="Sección de Soluciones">Soluciones</a> y 
                 <a href="#" data-toggle="tooltip" title="No esperes más">Promociones</a> que ofrecemos 
                 para usted.</h3>
             </div>
@@ -104,10 +104,10 @@
     <ul>
 		<li><i class="fa fa-html5 fa-2x tec vsfade"></i></li>
 		<li><i class="fa fa-css3 fa-2x tec vsfade"></i></li>
-		<li><a href="http://www.disain.co/humans.txt" target="_blank">
+		<li><a href="http://www.disainco.com/humans.txt" target="_blank">
         <img src="http://humanstxt.org/img/oficial-logos/humanstxt-transparent-1ink.png" class="vsfade tec" alt="humans.txt">
         </a></li>
-		<li><a href="http://www.iammobile.co.uk/results/www.disain.co">
+		<li><a href="http://www.iammobile.co.uk/results/www.disainco.com">
         <img src="http://www.iammobile.co.uk/images/iammobile-small.png" class="vsfade tec" width="45px" alt="I am Mobile">
         </a></li>
 	</ul>

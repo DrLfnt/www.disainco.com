@@ -28,10 +28,10 @@
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
 
 <!-- TXT -->
-<link rel="author" type="text/plain" href="http://www.disain.co/humans.txt">
+<link rel="author" type="text/plain" href="http://www.disainco.com/humans.txt">
 
 <!-- Favicon -->
-<link rel="shortcut icon" type="image/x-icon" href="http://www.disain.co/img/favicon.ico" media="all">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.disainco.com/img/favicon.ico" media="all">
 
 <!-- Menu -->
 <link rel="stylesheet" type="text/css" href="../css/nav.css" />
@@ -81,7 +81,7 @@
                 <h2 class="title">Error</h2>
                 <h3 class="title-description">Su Consulta no pudo ser enviada debido a que:</h3>
                 <h3 class="title-description"><a><?php echo $error; ?></a></h3>
-                <h3 class="title-description">Haga <a href="http://disain.co/contacto/" data-toggle="tooltip" 
+                <h3 class="title-description">Haga <a href="http://disainco.com/contacto/" data-toggle="tooltip" 
                 title="Regresar al contacto">click aquí</a> para volver al Formulario.</h3>
             </div>
         </div>
@@ -98,10 +98,10 @@
     <ul>
 		<li><i class="fa fa-html5 fa-2x tec vsfade"></i></li>
 		<li><i class="fa fa-css3 fa-2x tec vsfade"></i></li>
-		<li><a href="http://www.disain.co/humans.txt" target="_blank">
+		<li><a href="http://www.disainco.com/humans.txt" target="_blank">
         <img src="http://humanstxt.org/img/oficial-logos/humanstxt-transparent-1ink.png" class="vsfade tec" alt="humans.txt">
         </a></li>
-		<li><a href="http://www.iammobile.co.uk/results/www.disain.co">
+		<li><a href="http://www.iammobile.co.uk/results/www.disainco.com">
         <img src="http://www.iammobile.co.uk/images/iammobile-small.png" class="vsfade tec" width="45px" alt="I am Mobile">
         </a></li>
 	</ul>

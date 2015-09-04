@@ -1,15 +1,15 @@
-/* Argenis Oldair Palacios A.K.A. Dr. Lfnt | Descripción - http://argenisoldairpalacios.disain.co/ */
+/* Argenis Oldair Palacios A.K.A. Dr. Lfnt | Descripción - http://argenisoldairpalacios.disainco.com/ */
 
 
 /* Creator */
 	UX, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
-	Contact: a.palacios [at] disain.co | Dr.Lfnt [at] gmail.com
+	Contact: a.palacios [at] disainco.com | Dr.Lfnt [at] gmail.com
 	Twitter: @DrLfnt
 	From: Mexico city, Mexico
 
 	Studio: DisainCo
-	Contact: contacto [at] disain.co
-	Url: http://disain.co/
+	Contact: contacto [at] disainco.com
+	Url: http://disainco.com/
 	Twitter: @DisainCo
 	From: Mexico city, Mexico
 

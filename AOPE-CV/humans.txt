@@ -3,13 +3,13 @@
 
 /* My Contact */
 	UX, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
-	Contact: a.palacios [at] disain.co - Dr.Lfnt [at] gmail.com
+	Contact: a.palacios [at] disainco.com - Dr.Lfnt [at] gmail.com
 	Twitter: @DrLfnt
 	From: Mexico city, Mexico
 
 
 /* THANKS */
-	DisainCo http://disain.co
+	DisainCo http://disainco.com
 	Twitter: @DisainCo
 	From: Mexico city, Mexico
 

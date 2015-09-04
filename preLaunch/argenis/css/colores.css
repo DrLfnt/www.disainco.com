@@ -1,0 +1,196 @@
+/* colores.css */
+/* Arcoiris Background */
+@-webkit-keyframes arcoiris {
+	0% { color: white; background: #000; }
+	7% { color: white; background: #001f3f; }
+	14% { color: white; background: #0074d9; }
+	21% { color: white; background: #7fdbff; }
+	28% { color: white; background: #39cccc; }
+	35% { color: white; background: #3d9970; }
+	42% { color: white; background: #2ecc40; }
+	49% { color: white; background: #01ff70; }
+	56% { color: white; background: #ffdc00; }
+	63% { color: white; background: #ff851b; }
+	70% { color: white; background: #ff4136; }
+	77% { color: white; background: #85144b; }
+	84% { color: white; background: #f012be; }
+	91% { color: white; background: #b10dc9; }
+	95% { color: white; background: #111111; }
+	96% { color: white; background: #dddddd; }
+	98% { color: white; background: #aaaaaa; }
+	100% { color: white; background: #000; }
+}
+.bg-arcoiris {
+	-webkit-animation: arcoiris 100s linear infinite;
+	-moz-animation: arcoiris 100s linear infinite;
+	animation: arcoiris 100s linear infinite;
+}
+/* Arcoiris Background */
+
+/* General Background Color */
+.bg {
+	background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	-webkit-background-size: cover !important;
+}
+/* General Background Color */
+
+/* Background */
+.bg-limegreen {background-color: #32CD32 !important;}
+.bg-forestgreen {background-color: #228B22 !important;}
+.bg-turquoise {background-color: #40E0D0 !important;}
+.bg-dodgerblue {background-color: #1E90FF !important;}
+.bg-darkblue {background-color: #00008B !important;}
+.bg-royalblue {background-color: #4169E1 !important;}
+.bg-pastelyellow {background-color: #FDFD96 !important;}
+.bg-cornsilk {background-color: #FFF8DC !important;}
+.bg-salmon {background-color: #FA8072 !important;}
+.bg-khaki {background-color: #F0E68C !important;}
+.bg-darkcyan {background-color: #008B8B !important;}
+.bg-lightcyan {background-color: #E0FFFF !important;}
+.bg-cyan {background-color: #00FFFF !important;}
+.bg-aqua {background-color: #7FDBFF !important;}
+.bg-black {background-color: #111111 !important;}
+.bg-blue {background-color: #0074D9 !important;}
+.bg-fuchsia {background-color: #F012BE !important;}
+.bg-green {background-color: #2ECC40 !important;}
+.bg-lime {background-color: #01FF70 !important;}
+.bg-maroon {background-color: #85144B !important;}
+.bg-navy {background-color: #001F3F !important;}
+.bg-olive {background-color: #3D9970 !important;}
+.bg-orange {background-color: #FF851B !important;}
+.bg-purple {background-color: #B10DC9 !important;}
+.bg-red {background-color: #FF4136 !important;}
+.bg-silver {background-color: #ddd !important;}
+.bg-gray {background-color: #aaa !important;}
+.bg-teal {background-color: #39CCCC !important;}
+.bg-white {background-color: white !important;}
+.bg-yellow {background-color: #FFDC00 !important;}
+.bg-transparet {background-color: transparent !important;}
+/* Background */
+
+/* Color *//* Text */
+.limegreen {color: #32CD32 !important;}
+.forestgreen {color: #228B22 !important;}
+.turquoise {color: #40E0D0 !important;}
+.dodgerblue {color: #1E90FF !important;}
+.darkblue {color: #00008B !important;}
+.royalblue {color: #4169E1 !important;}
+.pastelyellow {color: #FDFD96 !important;}
+.cornsilk {color: #FFF8DC !important;}
+.salmon {color: #FA8072 !important;}
+.khaki {color: #F0E68C !important;}
+.darkcyan {color: #008B8B !important;}
+.lightcyan {color: #E0FFFF !important;}
+.cyan {color: #00FFFF !important;}
+.aqua {color: #7FDBFF !important;}
+.blue {color: #0074D9 !important;}
+.navy {color: #001F3F !important;}
+.teal {color: #39CCCC !important;}
+.green {color: #2ECC40 !important;}
+.olive {color: #3D9970 !important;}
+.lime {color: #01FF70 !important;}
+.maroon {color: #85144B !important;}
+.orange {color: #FF851B !important;}
+.purple {color: #B10DC9 !important;}
+.red {color: #FF4136 !important;}
+.yellow {color: #FFDC00 !important;}
+.fuchsia {color: #F012BE !important;}
+.silver {color: #ddd !important;}
+.gray {color: #aaa !important;}
+.white {color: white !important;}
+.black {color: #111111 !important;}
+/* Color *//* Text */
+
+/* The 17 Default Colors of CSS */
+.db-aqua {background-color: aqua !important;}
+.db-black {background-color: black !important;}
+.db-blue {background-color: blue !important;}
+.db-fuchsia {background-color: fuchsia !important;}
+.db-gray {background-color: gray !important;}
+.db-green {background-color: green !important;}
+.db-lime {background-color: lime !important;}
+.db-maroon {background-color: maroon !important;}
+.db-navy {background-color: navy !important;}
+.db-olive {background-color: olive !important;}
+.db-orange {background-color: orange !important;}
+.db-purple {background-color: purple !important;}
+.db-red {background-color: red !important;}
+.db-silver {background-color: silver !important;}
+.db-teal {background-color: teal !important;}
+.db-white {background-color: white !important;}
+.db-yellow {background-color: yellow !important;}
+
+.dc-aqua {color: aqua !important;}
+.dc-black {color: black !important;}
+.dc-blue {color: blue !important;}
+.dc-fuchsia {color: fuchsia !important;}
+.dc-gray {color: gray !important;}
+.dc-green {color: green !important;}
+.dc-lime {color: lime !important;}
+.dc-maroon {color: maroon !important;}
+.dc-navy {color: navy !important;}
+.dc-olive {color: olive !important;}
+.dc-orange {color: orange !important;}
+.dc-purple {color: purple !important;}
+.dc-red {color: red !important;}
+.dc-silver {color: silver !important;}
+.dc-teal {color: teal !important;}
+.dc-white {color: white !important;}
+.dc-yellow {color: yellow !important;}
+/* The 17 Default Colors of CSS */
+
+/* The BG Material Design Colors */
+
+.bg-md-red {background: #F34235 !important;}
+.bg-md-pink {background: #E81C62 !important;}
+.bg-md-purple {background: #9B26AF !important;}
+.bg-md-deep-purple {background: #6638B6 !important;}
+.bg-md-indigo {background: #3D4FB4 !important;}
+.bg-md-blue {background: #2295F2 !important;}
+.bg-md-light-blue {background: #00A8F3 !important;}
+.bg-md-cyan {background: #00BBD3 !important;}
+.bg-md-teal {background: #009587 !important;}
+.bg-md-green {background: #4BAE4F !important;}
+.bg-md-light-green {background: #8AC249 !important;}
+.bg-md-lime {background: #CCDB38 !important;}
+.bg-md-yellow {background: #FEEA3B !important;}
+.bg-md-amber {background: #FEC000 !important;}
+.bg-md-orange {background: #FE9700 !important;}
+.bg-md-deep-orange {background: #FE5622 !important;}
+.bg-md-brown {background: #785547 !important;}
+.bg-md-gray {background: #9D9D9D !important;}
+.bg-md-blue-gray {background: #5F7C8A !important;}
+.bg-md-deep-gray {background: #354045 !important;}
+.bg-md-dark-gray {background: #212121 !important;}
+.bg-md-light-gray {background: #EEEEEE !important;}
+
+/* The BG Material Design Colors */
+
+/* The Text Material Design Colors */
+
+.md-red {color: #F34235 !important;}
+.md-pink {color: #E81C62 !important;}
+.md-purple {color: #9B26AF !important;}
+.md-deep-purple {color: #6638B6 !important;}
+.md-indigo {color: #3D4FB4 !important;}
+.md-blue {color: #2295F2 !important;}
+.md-light-blue {color: #00A8F3 !important;}
+.md-cyan {color: #00BBD3 !important;}
+.md-teal {color: #009587 !important;}
+.md-green {color: #4BAE4F !important;}
+.md-light-green {color: #8AC249 !important;}
+.md-lime {color: #CCDB38 !important;}
+.md-yellow {color: #FEEA3B !important;}
+.md-amber {color: #FEC000 !important;}
+.md-orange {color: #FE9700 !important;}
+.md-deep-orange {color: #FE5622 !important;}
+.md-brown {color: #785547 !important;}
+.md-gray {color: #9D9D9D !important;}
+.md-blue-gray {color: #5F7C8A !important;}
+.md-deep-gray {color: #354045 !important;}
+.md-dark-gray {color: #212121 !important;}
+.md-light-gray {color: #EEEEEE !important;}
+
+/* The Text Material Design Colors */

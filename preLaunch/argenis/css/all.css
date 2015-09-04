@@ -1,0 +1,186 @@
+@import url('http://disainco.com/argenis/css/normalize.css');
+@import url('http://disainco.com/argenis/css/estilos.css');
+@import url('http://disainco.com/argenis/css/colores.css');
+@import url('http://disainco.com/argenis/css/menu.css');
+@import url('http://disainco.com/argenis/css/animaciones.css');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css');
+
+html {
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+}
+body {
+	margin:0;	
+	font-size: 16px;
+	font-weight: normal;
+	color:#fff;
+	min-width:320px;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: none;
+    font-style: normal;
+    font-weight: 100;
+}
+a {
+	color:#aaa;
+	text-decoration:none;
+}
+button {
+	background: teal;
+	border-radius: 2em;
+	color: #fff;
+	font-size: 1.5em;
+	padding: .3em;
+}
+button:hover {
+	border: inset;
+	background: #005B5B;
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
+}
+a:hover {text-decoration:none;}
+img {border:0;}
+form,
+fieldset {
+	margin:0;
+	padding:0;
+	border-style:none;
+}
+input,
+textarea,
+select {
+	vertical-align:middle;
+	color:#000;
+}
+input [type="email"], input [type="tel"], input[type="search"], input[type="text"], input[type="password"], input[type="file"], input[type="submit"], textarea{
+	-webkit-appearance:none;
+	-webkit-border-radius:0;
+	border-radius:0;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+.wrapper {
+	width:100%;
+	position:relative;
+	overflow:hidden;
+}
+.section {
+	color: teal;
+	text-align:center;
+	padding:70px 0 62px;
+	font-size:18px;
+	line-height:34px;
+}
+.tile-section {
+	background: transparent !important;
+	padding:0 0 74px;
+	position:relative;
+	overflow:hidden;
+}
+.tile-section.nopadding {
+	padding:0;
+}
+.tile-container {
+	overflow:hidden;
+	position:relative;
+	margin:0 0 74px;
+}
+.tile-container.nomargin {
+	margin:0;
+}
+.tile-container {
+	/*content:'';
+	background: rgba(255,255,255,0.7);
+	position:absolute;
+	left:-9999px;
+	right:-9999px;
+	bottom:-9999px;
+	top:-9999px;*/
+}
+.tile-container .tile-item {
+	overflow:hidden;
+	float:left;
+	position:relative;
+}
+.tile-container .tile-item a {
+	display:block;
+	position:relative;
+}
+.tile-container .tile-item a strong {
+	position:absolute;
+	left:0;
+	right:0;
+	bottom:0;
+	top:0;
+	background:rgba(255,255,255,0.7);
+	color:#92825c;
+	text-align:center;
+	padding:0 10px;
+	white-space:nowrap;
+	font-weight:normal;
+	font-size:14px;
+	line-height:30px;
+	opacity:0;
+	-webkit-transition: opacity 0.3s ease-out;
+	-moz-transition: opacity 0.3s ease-out;
+	-o-transition: opacity 0.3s ease-out;
+	transition: opacity 0.3s ease-out;
+}
+.tile-container .tile-item a.hover strong {
+	opacity:1;
+}
+.tile-container .tile-item a strong:after {
+	content:'';
+	width:1px;
+	height:100%;
+	display:inline-block;
+	vertical-align:middle;
+}
+.tile-container .tile-item a strong span {
+	display:inline-block;
+	vertical-align:middle;
+	white-space:normal;
+	position:relative;
+	padding:45px 0 0;
+}
+.tile-container .tile-item a strong span:after {
+	width: 29px;
+	height: 43px;
+	content:'';
+	background: url(http://www.patinefijnschilders.nl/images/sprite.png) no-repeat -85px 0;
+	position:absolute;
+	top:-5px;
+	left:50%;
+	margin:0 0 0 -15px;
+}
+.tile-container .square {
+	float:left;
+	width:33.33%;
+}
+.tile-container .rectangle-vert,
+.tile-container .small-square {
+	width:50%;
+}
+.tile-container .rectangle-horz,
+.tile-container .big-square  {
+	width:100%;
+}
+.tile-container img {
+	vertical-align:top;
+	width:100%;
+	height:auto;
+}
+
+@media only screen and (max-width: 1060px){
+	.tile-container .tile-item a strong {
+		line-height:20px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.tile-container .square {
+		width:100%;
+	}
+}

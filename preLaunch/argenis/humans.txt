@@ -1,0 +1,21 @@
+/* Dr. Lfnt | Descripcion - http://argenispalacios.com/ UX & UI Designer, Frontend Developer, Digital Strategist */
+
+/* Creator */
+	UX & UI Designer, FrontEnd Developer, Digital Strategist: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: argenis [at] disainco.com | Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+	Studio: DisainCo
+	Contact: contacto [at] disainco.com
+	Url: http://disainco.com/
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+/* SITE */
+	Last update: 27/01/2015
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript.
+	Components: Responsive Design, jQuery, MySQL.
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC).
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css | animaciones.css | clearfix.css | lightbox.css | colores.css | Google Fonts (Roboto)

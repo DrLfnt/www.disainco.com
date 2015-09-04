@@ -59,10 +59,7 @@
         $Mail->Subject = $asunto;
         $Mail->Body = $TxtMensa;
 
- 	 $Mail->AddBcc("contacto@disain.co");
-	 $Mail->AddBcc("a.palacios@disain.co");
-	 $Mail->AddBcc("c.marin@disain.co");
-	 $Mail->AddBcc("cesare.caesar.marin@gmail.com");
+ 	 $Mail->AddBcc("argenis@disainco.com")
 	 $Mail->AddBcc("Dr.Lfnt@gmail.com");
 	 $Mail->Send();
 	// Este es el archivo que contendra el mensaje de agradecimiento o puede ingresar otra ruta para que lo redireccione despues de enviado el correo

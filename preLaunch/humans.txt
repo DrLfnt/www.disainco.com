@@ -1,0 +1,42 @@
+
+                                 xxxxxxxx
+                                 x      x
+                                 x      x
+                                 x      x
+                                 x      x
+                      xxxxxxxxx  x      xxxxxxxxxxx
+                   xxxx       x  x   xxxx         xxxx
+                 xxx          x  x  xx               xxx
+                xx            x  x xx                  xx
+               xx        xxxxxx  xxx      xxxxxxxx      xx
+              xx       xxxx      xx      xx      xxx     xx
+             xx        xx        xx     xx         x     xx
+             xx        xxx       xx     xx         xxxxxxxx
+             xx         xxxxx    x      xx
+              xx           xxxxxxx      xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+               xx                x                                  x
+                xxx              x                                  x
+                  xxx            x                         DisainCo x
+                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+/* disainco.com | Diseño grafico, diseño web, diseño publicitario, animacion, social media, mercadotecnia - http://disainco.com */
+
+/* TEAM */
+	CEO, Front End & Designer: Argenis Oldair Palacios Escobar A.K.A. Dr. Lfnt
+	Contact: argenis [at] disainco.com - Dr.Lfnt [at] gmail.com
+	Twitter: @DrLfnt
+	From: Mexico city, Mexico
+
+/* THANKS */
+	DisainCo http://disainco.com
+	Twitter: @DisainCo
+	From: Mexico city, Mexico
+
+/* SITE */
+	Last update: 22/12/2014
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript, PHP
+	Components: Responsive Design, jQuery, Node.js, Stylus - nib, MySQL
+	Software: OS X Mountain Lion, Windows 7, Windows 8, Sublime Text 2, CSS Edit, Filezilla, Adobe Creative Cloud (Ilustrator CC - Photoshop CC - Dreamweaver CC - Edge CC)
+	Resources: normalize.css | font-awesome.css | modernizr.js | bootstrap.css
