@@ -93,7 +93,7 @@
 
 <!-- Footer -->
 <footer>
-	<p class="credits">Copyright 2013 Disainco. <b><a href="#" title="DisainCo | Cristalizamos Ideas">Aviso de 
+	<p class="credits">Copyright 2015 Disainco. <b><a href="#" title="DisainCo | Cristalizamos Ideas">Aviso de 
     Privacidad</a></b></p>
     <ul>
 		<li><i class="fa fa-html5 fa-2x tec vsfade"></i></li>
