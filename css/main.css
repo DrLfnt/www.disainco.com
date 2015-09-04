@@ -576,65 +576,67 @@ header #logo a:hover {
 .nosotros {
 	background: url(../img/header/nosotros.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .contacto {
 	background: url(../img/header/contacto.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .diseno {
 	background: url(../img/header/diseno.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .marketing {
 	background: url(../img/header/marketing.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .desarrollo {
 	background: url(../img/header/desarrollo.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .faqs {
 	background: url(../img/header/faqs.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .galeria {
 	background: url(../img/header/galeria.jpg) no-repeat center center fixed;
 	background-size: cover; -moz-background-size: cover; -o-background-size: cover; -webkit-background-size: cover;
-	height: 400px;
+	height: 700px;
 	font-family: 'champagne__limousinesBdIt', "Helvetica Neue", sans-serif;
 }
 
 .title-img{
-	background:rgba(60,63,69,1);
+	background:rgba(60,63,69,.7);
+	border-radius: 1em;
 	color:#C9CD1E;
 	display:inline-block;
 	font-size:32px;
-	margin:160px 0 0 200px;
+	margin:300px 0 0 200px;
 	padding:10px 40px;
 	width:40%;
 	text-align:center;
 }
 
 .caption{
-	background:rgba(201,205,30,1);
+	background:rgba(201,205,30,.7);
+	border-radius: 1em;
 	color:#676b71;
 	font-size:16px;
 	margin:10px 0 0 200px;
