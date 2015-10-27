@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Syncopate:700|Roboto:400,700,300);
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+@import url(mediaQueries.css);
+html {
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+header nav {
+	font-family: 'Syncopate', sans-serif;
+	font-size: 1.5rem;
+	text-align: center;
+}
+header nav a {
+	color: #FF8400;
+	text-decoration: none;
+}
+header nav a:hover {
+	color: #FF1E00;
+}
+header nav span {
+	color: #FF1E00;
+}
+.fw300 {
+	font-weight: 300;
+}
+.fw400 {
+	font-weight: 400;
+}
+.fw700 {
+	font-weight: 700;
+}
+.logotipo {
+	max-width: 100%;
+}
+.pointer {
+	cursor:pointer ;
+}
+.centered {
+	margin: 0 auto;
+}
