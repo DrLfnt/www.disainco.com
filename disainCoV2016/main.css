@@ -29,12 +29,6 @@ header nav span {
 .fw700 {
 	font-weight: 700;
 }
-.logotipo {
-	max-width: 100%;
-}
-.pointer {
-	cursor:pointer ;
-}
 .centered {
 	margin: 0 auto;
 }
