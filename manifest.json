@@ -1,0 +1,42 @@
+{
+  "lang": "es",
+  "short_name": "DisainCo",
+  "name": "DisainCo Agency",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-196.png",
+      "sizes": "196x196",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "orange",
+  "background_color": "orange"
+}
