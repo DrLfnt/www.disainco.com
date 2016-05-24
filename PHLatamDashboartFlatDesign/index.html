@@ -1,160 +1,250 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PubHub Links</title>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="PubHub Latam">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>PubHub Links</title>
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="icon" sizes="192x192" href="images/icons/icon.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="PubHub Latam">
+	<link rel="apple-touch-icon-precomposed" href="images/icons/icon.png">
+	<meta name="msapplication-TileImage" content="images/icons/icon.png">
+	<meta name="msapplication-TileColor" content="#3372DF">
+	<link rel="shortcut icon" href="http://pubhub-latam.net/assets/favicon.ico">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="https://code.getmdl.io/1.1.3/material.blue-pink.min.css">
+	<link rel="stylesheet" href="styles.css">
+	<style>
+		.pubhub-card-image.mdl-card {width: 100%; height: 100%; background: url('images/user.jpg') center / cover;}
+		.pubhub-card-image > .mdl-card__actions {height: 100%; padding: 0px; background: rgba(0, 0, 0, 0.2);}
+		.pubhub-card-image__filename {color: #fff; font-size: 14px; font-weight: 500;}
+	</style>
+</head>
+<body>
+	<div class="pubhub-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
 
-    <!-- Add to homescreen for Chrome on Android -->
-    <meta name="mobile-web-app-capable" content="yes">
-    <link rel="icon" sizes="192x192" href="images/android-desktop.png">
+		<header class="pubhub-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
+			<div class="mdl-layout__header-row">
+				<img src="images/iconPH.png" class="rotate pubhub-avatar" alt="PubHub Latam"><img src="images/txtPH.png" style="height: 45px;" alt="PubHub Latam">
+				<div class="mdl-layout-spacer"></div>
+				<button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="hdrbtn">
+					<i class="material-icons">more_vert</i>
+				</button>
+				<ul class="mdl-menu mdl-js-menu mdl-js-ripple-effect mdl-menu--bottom-right" for="hdrbtn">
+					<li class="mdl-menu__item"><a href="#" target="_blank">Directorio</a></li>
+					<li class="mdl-menu__item"><a href="http://10.65.128.234/" target="_blank">WPP</a></li>
+					<li class="mdl-menu__item"><a href="http://tacmex.jwt.com/" target="_blank">TimeSheet</a></li>
+					<li class="mdl-menu__item"><a href="http://lynda.jwt.com/" target="_blank">Lynda</a></li>
+					<li class="mdl-menu__item"><a href="http://www.portalempleadoswpp.com/loginadmon.aspx" target="_blank">Recibos Nómina</a></li>
+					<li class="mdl-menu__item"><a href="https://password.jwt.com/?style=bluehive" target="_blank">Password WPP</a></li>
+					<li class="mdl-menu__item"><a href="#" target="_blank">Password CSID</a></li>
+					<li class="mdl-menu__item"><a href="#" target="_blank">Password Jira</a></li>
+					<li class="mdl-menu__item"><a href="http://pubhub-latam.net" target="_blank">Blog</a></li>
+				</ul>
+			</div>
+		</header>
 
-    <!-- Add to homescreen for Safari on iOS -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
-    <link rel="apple-touch-icon-precomposed" href="images/ios-desktop.png">
+		<div class="pubhub-drawer mdl-layout__drawer mdl-color--blue-grey-900 mdl-color-text--blue-grey-50">
 
-    <!-- Tile icon for Win8 (144x144 + tile color) -->
-    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
-    <meta name="msapplication-TileColor" content="#3372DF">
+			<header class="pubhub-drawer-header">
+				<img src="https://scontent-ord1-1.xx.fbcdn.net/hprofile-xtp1/v/t1.0-1/p40x40/12932570_469791306559272_2749679211433418026_n.jpg?_nc_eui=ARjylJjLaQijR9Yh0x9xfpO3h4u-UbIUju_g385Q16zU7VMlkSC5yrkxMCgx&oh=f86d2cda02fa4fdc07b5d401f5847eab&oe=57757A7E" class="pubhub-avatar">
+				<div class="pubhub-avatar-dropdown">
+					<span>
+						<script language="JavaScript" type="text/javascript">today=new Date;if(today.getMinutes()<10){pad="0"}else pad="";document.write;if(today.getHours()>=6&&today.getHours()<=9){document.write("¡Hola Buen día!<br />")}if(today.getHours()>=10&&today.getHours()<=11){document.write("¡Hola Buen día!<br />")}if(today.getHours()>=12&&today.getHours()<=19){document.write("¡Hola Buena tarde!<br />")}if(today.getHours()>=20&&today.getHours()<=23){document.write("¡Hola Buena noche!<br />")}if(today.getHours()>=0&&today.getHours()<=3){document.write("¡Hola Buena noche!<br />")}if(today.getHours()>=4&&today.getHours()<=5){document.write("¡Hola Buena noche!<br />")}</script>
+					</span>
+					<div class="mdl-layout-spacer"></div>
+					<button id="accbtn" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+						<i class="material-icons">add</i>
+						<span class="visuallyhidden">Permisos</span>
+					</button>
+					<ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="accbtn">
+						<li class="mdl-menu__item"><span class="mdl-layout-title" style="color: #333;"> Permisos</span></li>
+						<li class="mdl-menu__item"><a href="mailto:fernanda.desantiago@thebluehive.com;eduardo.angeles@thebluehive.com;oliver.martinez@thebluehive.com?cc=alejandro.morales@thebluehive.com&body=Hola por este medio solicito permiso para...&subject=Solicitud de permiso">Proyect Managers</a></li>
+					</ul>
+				</div>
+			</header>
 
-    <link rel="shortcut icon" href="http://pubhub-latam.net/assets/favicon.ico">
+			<nav class="pubhub-navigation mdl-navigation mdl-color--blue-grey-800">
+				<a class="mdl-navigation__link" target="_blank" href="https://wwwedumg4.dragonfly.ford.com/cas/login?service=https%3A%2F%2Fwwwedumg4.dragonfly.ford.com%2Fservlet%2FContentServer%3Fd%3D%26pagename%3DOpenMarket%2FXcelerate%2FUIFramework%2FLoginPage">FatWire</a>
+				<a class="mdl-navigation__link" target="_blank" href="https://jira.thebluehive.com/">Jira</a>
+				<a class="mdl-navigation__link" target="_blank" href="https://coretech.service-now.com/selfservice/">Tickets It</a>
+				<a class="mdl-navigation__link" target="_blank" href="http://pubhub-latam.net/assets/BrightcoveTestVideo.php">Validación Videos</a>
+				<a class="mdl-navigation__link" target="_blank" href="https://outlook.office365.com/owa/?realm=thebluehive.com">Email</a>
+				<a class="mdl-navigation__link" target="_blank" href="http://pubhub-latam.net/assets/">Style Guides</a>
+				<a class="mdl-navigation__link" target="_blank" href="http://pubhub-latam.net/assets/">Publishing Guides</a>
+				<a class="mdl-navigation__link" target="_blank" href="http://pubhub-latam.net/assets/">Calendario</a>
+				<div class="mdl-layout-spacer"></div>
+				<a class="mdl-navigation__link dialog-button">#PubHubMusic</a>
+				<dialog id="dialog" class="mdl-dialog">
+					<h4 class="mdl-dialog__title">#PubHubMusic</h4>
+					<div class="mdl-dialog__content">
+						<iframe src="https://embed.spotify.com/?uri=spotify%3Auser%3A12125627996%3Aplaylist%3A3XpxiaaNX4znmdU82tm47H&theme=white" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+					</div>
+					<div class="mdl-dialog__actions">
+						<button type="button" class="mdl-button">Cerrar</button>
+					</div>
+				</dialog>
+			</nav>
 
-    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
-    <!--
-    <link rel="canonical" href="http://www.example.com/">
-    -->
+		</div>
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="https://code.getmdl.io/1.1.0/material.cyan-light_blue.min.css">
-    <link rel="stylesheet" href="styles.css">
-    <style>
-    #view-source {
-      position: fixed;
-      display: block;
-      right: 0;
-      bottom: 0;
-      margin-right: 40px;
-      margin-bottom: 40px;
-      z-index: 900;
-    }
-    </style>
-  </head>
-  <body>
-    <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
-      <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
-        <div class="mdl-layout__header-row">
-          <span class="mdl-layout-title">PubHub Latam</span>
-          <div class="mdl-layout-spacer"></div>
-          <!--<div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable">
-            <label class="mdl-button mdl-js-button mdl-button--icon" for="search">
-              <i class="material-icons">search</i>
-            </label>
-            <div class="mdl-textfield__expandable-holder">
-              <input class="mdl-textfield__input" type="text" id="search">
-              <label class="mdl-textfield__label" for="search">Enter your query...</label>
-            </div>
-          </div>-->
-          <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="hdrbtn">
-            <i class="material-icons">more_vert</i>
-          </button>
-          <ul class="mdl-menu mdl-js-menu mdl-js-ripple-effect mdl-menu--bottom-right" for="hdrbtn">
-            <li class="mdl-menu__item">Blog</li>
-            <li class="mdl-menu__item">Contacto</li>
-          </ul>
-        </div>
-      </header>
-      <div class="demo-drawer mdl-layout__drawer mdl-color--blue-grey-900 mdl-color-text--blue-grey-50">
-        <header class="demo-drawer-header">
-          <img src="images/user.jpg" class="demo-avatar">
-          <div class="demo-avatar-dropdown">
-            <span>Hola PubHubita</span>
-            <div class="mdl-layout-spacer"></div>
-            <button id="accbtn" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
-              <i class="material-icons" role="presentation">arrow_drop_down</i>
-              <span class="visuallyhidden">Accounts</span>
-            </button>
-            <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="accbtn">
-              <li class="mdl-menu__item">hello@example.com</li>
-            </ul>
-          </div>
-        </header>
-        <nav class="demo-navigation mdl-navigation mdl-color--blue-grey-800">
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Home</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Inbox</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Trash</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Spam</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Forums</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Updates</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Promos</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Purchases</a>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation"></i>Social</a>
-          <div class="mdl-layout-spacer"></div>
-          <a class="mdl-navigation__link" href=""><i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">help_outline</i><span class="visuallyhidden">Help</span></a>
-        </nav>
-      </div>
-      <main class="mdl-layout__content mdl-color--grey-100">
-        <div class="mdl-grid demo-content">
-          <div class="hidden demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid">
-            <svg fill="currentColor" width="200px" height="200px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
-              <use xlink:href="#piechart" mask="url(#piemask)" />
-              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">82<tspan font-size="0.2" dy="-0.07">%</tspan></text>
-            </svg>
-            <svg fill="currentColor" width="200px" height="200px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
-              <use xlink:href="#piechart" mask="url(#piemask)" />
-              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">82<tspan dy="-0.07" font-size="0.2">%</tspan></text>
-            </svg>
-            <svg fill="currentColor" width="200px" height="200px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
-              <use xlink:href="#piechart" mask="url(#piemask)" />
-              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">82<tspan dy="-0.07" font-size="0.2">%</tspan></text>
-            </svg>
-            <svg fill="currentColor" width="200px" height="200px" viewBox="0 0 1 1" class="demo-chart mdl-cell mdl-cell--4-col mdl-cell--3-col-desktop">
-              <use xlink:href="#piechart" mask="url(#piemask)" />
-              <text x="0.5" y="0.5" font-family="Roboto" font-size="0.3" fill="#888" text-anchor="middle" dy="0.1">82<tspan dy="-0.07" font-size="0.2">%</tspan></text>
-            </svg>
-          </div>
-          <div class="hidden demo-graphs mdl-shadow--2dp mdl-color--white mdl-cell mdl-cell--8-col">
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
-              <use xlink:href="#chart" />
-            </svg>
-            <svg fill="currentColor" viewBox="0 0 500 250" class="demo-graph">
-              <use xlink:href="#chart" />
-            </svg>
-          </div>
-          <div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
-            <div class="demo-updates mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop">
-              <div class="mdl-card__title mdl-card--expand mdl-color--teal-300">
-                <h2 class="mdl-card__title-text">Updates</h2>
-              </div>
-              <div class="mdl-card__supporting-text mdl-color-text--grey-600">
-                Non dolore elit adipisicing ea reprehenderit consectetur culpa.
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect">Read More</a>
-              </div>
-            </div>
-            <div class="demo-separator mdl-cell--1-col"></div>
-            <div class="demo-updates mdl-card mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-desktop">
-              <div class="mdl-card__title mdl-card--expand mdl-color--teal-300">
-                <h2 class="mdl-card__title-text">Updates</h2>
-              </div>
-              <div class="mdl-card__supporting-text mdl-color-text--grey-600">
-                Non dolore elit adipisicing ea reprehenderit consectetur culpa.
-              </div>
-              <div class="mdl-card__actions mdl-card--border">
-                <a href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect">Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </main>
-    </div>
-      <!-- <a href="https://github.com/google/material-design-lite/blob/master/templates/dashboard/" target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-color-text--white">Directorio</a> -->
-      <a target="_blank" id="view-source" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored mdl-color-text--white">Directorio</a>
-    <script src="https://code.getmdl.io/1.1.0/material.min.js"></script>
-  </body>
+		<main class="mdl-layout__content mdl-color--grey-100">
+			<div class="mdl-grid pubhub-content">
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FMX</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">LMX15</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">MCMX</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FSO</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FBR</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FBRT</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FCO</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FVE</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FEC</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FAR</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FCH</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="mdl-cell mdl-cell--6-col-phone mdl-cell--4-col-tablet mdl-cell--3-col">
+					<a href="#">
+						<div class="pubhub-card-image mdl-card mdl-shadow--2dp">
+							<div class="mdl-card__title mdl-card--expand"></div>
+							<div class="mdl-card__actions">
+								<center>
+									<span class="demo-card-image__filename">FPE</span>
+								</center>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</main>
+
+	</div>
+
+	<script src="https://code.getmdl.io/1.1.0/material.min.js"></script>
+
+</body>
 </html>

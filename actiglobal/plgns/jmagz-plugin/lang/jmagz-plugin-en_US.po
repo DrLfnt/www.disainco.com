@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jmagz Plugin v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-24 21:28+0800\n"
+"PO-Revision-Date: 2015-03-24 13:41:51+0000\n"
+"Last-Translator: Jegtheme <support@jegtheme.com>\n"
+"Language-Team: Jegtheme <support@jegtheme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: lib/additional-filter.php:66
+#, php-format
+#@ jmagz-plugin
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+
+#: lib/additional-filter.php:69
+#@ jmagz-plugin
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: lib/additional-filter.php:74
+#: lib/vc/view.php:281
+#: lib/vc/view.php:385
+#: lib/vc/view.php:473
+#: lib/vc/view.php:557
+#: lib/vc/view.php:626
+#: lib/vc/view.php:701
+#: lib/vc/view.php:1273
+#@ jmagz-plugin
+msgid " ago"
+msgstr "ago"
+
+#: lib/additional-filter.php:75
+#@ jmagz-plugin
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: lib/build-shortcode.php:17
+#@ jmagz-plugin
+msgid "People Also Read"
+msgstr "People Also Read"
+
+#: lib/vc/view.php:400
+#: lib/vc/view.php:1199
+#@ jmagz-plugin
+msgid "Continue reading &rarr;"
+msgstr "Continue reading &rarr;"
+
+#: lib/vc/view.php:484
+#: lib/vc/view.php:714
+#@ jmagz-plugin
+msgid "By"
+msgstr "By"
+
+#: lib/vc/view.php:515
+#: lib/vc/view.php:1310
+#@ jmagz-plugin
+msgid "View More"
+msgstr "View More"
+
+#: lib/widget-template/twitter-widget.php:182
+#@ jmagz-plugin
+msgid "Sorry, no tweet found."
+msgstr "Sorry, no tweet found."
+
